@@ -1,4 +1,4 @@
 # git-pull-error-demo
-This is a remote change causing conflict.
+This is a rem
+This is a REMOTE conflicting change.
 
-Remote update from GitHub.
